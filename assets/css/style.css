@@ -1,0 +1,26 @@
+
+.btn-primary {
+    margin-left: 10px;
+    background-color: mediumseagreen;
+}
+
+.ratings {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Karma', serif;
+    color: hotpink;
+    font-size: 15pt;
+}
+
+.btn-submit {
+    background-color: mediumseagreen;
+
+}
+.container {
+    margin-bottom: 20px;
+}
+h1 {
+    font-family: 'Karma', serif;
+    color: hotpink;
+    font-size: 40pt;
+}
